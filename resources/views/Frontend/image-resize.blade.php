@@ -27,7 +27,7 @@
                     <form method="POST" id="resizeImage" action="{{route('image.resize')}}" class="separate-form" enctype="multipart/form-data">
                         @csrf
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <h5 class="from-title mb-1">Image Resize</h5>
+                            <h5 class="from-title mb-1">Resize the Image</h5>
                             <div class="row">
                                 <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
                                     <div class="form-group">
