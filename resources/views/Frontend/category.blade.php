@@ -28,7 +28,7 @@
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                     <div class="form-group">
                                         <input type="hidden" name="id" value="@isset($items['id']){{$items['id']}} @endisset" >
-                                        <label for="member-name" class="col-form-label">Your Category Name</label>
+                                        <label for="member-name" class="col-form-label">Category Name</label>
                                         <input class="form-control" type="text" name="categoryname" placeholder="Enter Category Name.." value="@isset($items['categoryname']){{$items['categoryname']}} @endisset" id="categoryname">
                                     </div>
                                 </div>
