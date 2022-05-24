@@ -23,7 +23,7 @@
                     <form class="separate-form" id="category" enctype="multipart/form-data">
                         {{-- @csrf --}}
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <h5 class="from-title mb-1">Category Management</h5>
+                            <h5 class="from-title mb-1">Its Category Management</h5>
                             <div class="row">
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                     <div class="form-group">
